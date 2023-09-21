@@ -1,5 +1,5 @@
 
-I'm proficient in many program language to print "Hello World"
+I'm proficient in many program languages to print "Hello World"
 - print("Hello World")
 - disp("Hello World")
 - echo "Hello World"
