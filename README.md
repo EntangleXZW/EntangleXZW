@@ -1,10 +1,15 @@
 
-I'm proficient in many program languages to print "Hello World"
+I'm proficient in several program languages 
+.
+.
+.
+to print "Hello World", just like
 - print("Hello World")
 - disp("Hello World")
 - echo "Hello World"
-- console.log("Hello World")
+- alert("Hello World")
 - System.out.println("Hello World")
+you know, which are very difficult for a green hand.
 <!---
 EntangleXZW/EntangleXZW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
